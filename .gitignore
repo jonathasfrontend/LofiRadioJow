@@ -1,7 +1,7 @@
 src/logs/
 /.vscode
 /cspell.json
-
+*.rar
 # dependencies
 /node_modules
 /.pnp
