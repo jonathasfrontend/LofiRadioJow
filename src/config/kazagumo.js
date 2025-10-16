@@ -15,8 +15,8 @@ function parseBoolean(value) {
 const nodes = [
     {
         name: "LavalinkLoFiRadio",
-        url: process.env.NODE_URL || 'lavahatry4.techbyte.host:3000', 
-        auth: process.env.NODE_AUTH || 'NAIGLAVA-dash.techbyte.host',
+        url: process.env.NODE_URL || 'lava-v4.ajieblogs.eu.org:80', 
+        auth: process.env.NODE_AUTH || 'https://dsc.gg/ajidevserver',
         secure: parseBoolean(process.env.NODE_SECURE || 'false'),
     },
 ];
